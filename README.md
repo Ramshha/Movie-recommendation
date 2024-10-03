@@ -15,4 +15,4 @@ The Movie Recommendation Program is a simple command-line application that helps
 
 ### Installation
 1. Clone the repository:
-   git clone https://github.com/Ramshha/movie-recommendation.git
+   [git clone https://github.com/Ramshha/movie-recommendation.git](https://github.com/Ramshha/Movie-recommendation.git)
